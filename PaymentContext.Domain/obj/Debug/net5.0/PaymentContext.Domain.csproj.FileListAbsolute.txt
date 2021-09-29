@@ -1,0 +1,15 @@
+C:\Users\daniel martins\Desktop\Dev\dotnet\balta\PaymentContext\PaymentContext.Domain\bin\Debug\net5.0\PaymentContext.Domain.deps.json
+C:\Users\daniel martins\Desktop\Dev\dotnet\balta\PaymentContext\PaymentContext.Domain\bin\Debug\net5.0\PaymentContext.Domain.dll
+C:\Users\daniel martins\Desktop\Dev\dotnet\balta\PaymentContext\PaymentContext.Domain\bin\Debug\net5.0\ref\PaymentContext.Domain.dll
+C:\Users\daniel martins\Desktop\Dev\dotnet\balta\PaymentContext\PaymentContext.Domain\bin\Debug\net5.0\PaymentContext.Domain.pdb
+C:\Users\daniel martins\Desktop\Dev\dotnet\balta\PaymentContext\PaymentContext.Domain\obj\Debug\net5.0\PaymentContext.Domain.csproj.AssemblyReference.cache
+C:\Users\daniel martins\Desktop\Dev\dotnet\balta\PaymentContext\PaymentContext.Domain\obj\Debug\net5.0\PaymentContext.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daniel martins\Desktop\Dev\dotnet\balta\PaymentContext\PaymentContext.Domain\obj\Debug\net5.0\PaymentContext.Domain.AssemblyInfoInputs.cache
+C:\Users\daniel martins\Desktop\Dev\dotnet\balta\PaymentContext\PaymentContext.Domain\obj\Debug\net5.0\PaymentContext.Domain.AssemblyInfo.cs
+C:\Users\daniel martins\Desktop\Dev\dotnet\balta\PaymentContext\PaymentContext.Domain\obj\Debug\net5.0\PaymentContext.Domain.csproj.CoreCompileInputs.cache
+C:\Users\daniel martins\Desktop\Dev\dotnet\balta\PaymentContext\PaymentContext.Domain\obj\Debug\net5.0\PaymentContext.Domain.dll
+C:\Users\daniel martins\Desktop\Dev\dotnet\balta\PaymentContext\PaymentContext.Domain\obj\Debug\net5.0\ref\PaymentContext.Domain.dll
+C:\Users\daniel martins\Desktop\Dev\dotnet\balta\PaymentContext\PaymentContext.Domain\obj\Debug\net5.0\PaymentContext.Domain.pdb
+C:\Users\daniel martins\Desktop\Dev\dotnet\balta\PaymentContext\PaymentContext.Domain\bin\Debug\net5.0\PaymentContext.Shared.dll
+C:\Users\daniel martins\Desktop\Dev\dotnet\balta\PaymentContext\PaymentContext.Domain\bin\Debug\net5.0\PaymentContext.Shared.pdb
+C:\Users\daniel martins\Desktop\Dev\dotnet\balta\PaymentContext\PaymentContext.Domain\obj\Debug\net5.0\PaymentContext.Domain.csproj.CopyComplete
